@@ -1,0 +1,41 @@
+Why I Like to Join as a Software Developer:
+I am deeply passionate about coding, and I find immense joy in my work when I engage in the process of writing code. The act of coding not only makes me feel accomplished but also provides a sense of fulfillment and satisfaction.
+
+Top 3 Softwares/Tools That Inspire Me:
+
+Facebook
+Reason: Facebook is an inspiration due to its complex and scalable architecture, handling a vast amount of user data efficiently. The engineering challenges they address and the innovative solutions they implement motivate me to enhance my problem-solving skills.
+Windows Operating System
+
+Reason: Windows has been a crucial part of personal computing for decades, and its robustness and versatility have always intrigued me. Studying its architecture and understanding how it accommodates various software applications motivates me to develop applications that seamlessly integrate with diverse environments.
+Google Chrome
+
+Reason: Google Chrome is a fast and reliable web browser known for its performance and user-friendly interface. Exploring its underlying technologies encourages me to create web applications with an emphasis on speed, efficiency, and a positive user experience.
+Top 3 Organizations I Would Like to Join in My Career:
+
+Google
+
+Reason: Google is at the forefront of technological innovation, and joining the company would provide an opportunity to work on cutting-edge projects, collaborate with brilliant minds, and contribute to advancements in the tech industry.
+Any Other Established Tech Company
+
+Reason: Established tech companies offer a stable environment for professional growth, exposure to diverse projects, and opportunities to learn from experienced professionals, contributing to a well-rounded career development.
+Any Startup
+
+Reason: Startups foster an entrepreneurial spirit, allowing me to contribute significantly to a company's growth from its early stages. The dynamic nature of startups provides unique challenges, enabling me to wear multiple hats and gain a broad range of skills.
+My Positioning in the Industry After 2 Years:
+In two years, I envision myself as a proficient programmer and a refined problem solver. I aim to continually enhance my coding skills, stay updated with emerging technologies, and tackle complex challenges with creativity and efficiency. By then, I aspire to have a well-established reputation for delivering high-quality solutions and contributing meaningfully to the tech community.
+
+Projects/Products I Have Built or Plan to Build in the Upcoming Year:
+
+Chrome Extension
+
+Role: Lead Developer
+Description: Developing a Chrome extension to enhance user productivity by providing additional features and functionalities tailored to their needs.
+Cloud Notes Saving Application
+
+Role: Full-stack Developer
+Description: Creating a cloud-based notes-saving application that allows users to store, organize, and access their notes from anywhere, emphasizing data security and accessibility.
+Social Networking Platform
+
+Role: Project Manager
+Description: Initiating the development of a social networking platform that fosters meaningful connections and collaboration among users, emphasizing a user-friendly interface and innovative features.
